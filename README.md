@@ -9,13 +9,10 @@ The Federal Election Commission accepts hundreds of thousands of filings from or
 ####Requirements
 
 #####Checking FEC Filings from fec.gov
-[VenPak](http://www.fec.gov/elecfil/vendors.shtml), the FEC's tools and guidelines for submission software vendors, includes a filing checker: FECCheck.jar
-
-Java 6
-
-Linux/Unix, the scripts are Bash shell scripts, tested in Ubuntu 12.04
-
-Data from ftp://ftp.fec.gov/FEC/electronic/
+* [VenPak](http://www.fec.gov/elecfil/vendors.shtml), the FEC's tools and guidelines for submission software vendors, includes a filing checker: FECCheck.jar
+* Java 6
+* Linux/Unix, the scripts are Bash shell scripts, tested in Ubuntu 12.04
+* Data from ftp://ftp.fec.gov/FEC/electronic/
 
 #####Using the data
 All of the data is provided in tab-delimited format in the data directory. We've also provided the complete database with table structures in a PostgreSQL export.

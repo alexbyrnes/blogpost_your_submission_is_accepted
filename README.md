@@ -1,6 +1,6 @@
-Data and code behind "Your Submission is Accepted," a collaboration between Bob Lannon ([Sunlight Foundation](http://sunlightfoundation.com)) and Alex Byrnes ([Center for Responsive Politics](http://opensecrets.org))
+Data and code behind "Your Submission is Accepted," a collaboration between [Bob Lannon](https://github.com/boblannon) (Sunlight Foundation) and [Alex Byrnes](https://github.com/alexbyrnes) (Center for Responsive Politics)
 
-The story can be found at [The Sunlight Foundation](http://sunlightfoundation.com/blog/2014/10/14/your-submission-is-accepted-fecs-digital-gatekeeper-bars-few/) and [OpenSecrets.org](http://www.opensecrets.org/news/2014/10/your-submission-is-accepted-fecs-digital-gatekeeper-bars-few/)
+The story can be found at [The Sunlight Foundation](http://sunlightfoundation.com/blog/2014/10/14/your-submission-is-accepted-fecs-digital-gatekeeper-bars-few/) and [OpenSecrets.org](http://www.opensecrets.org/news/2014/10/your-submission-is-accepted-fecs-digital-gatekeeper-bars-few/).
 
 ####Background
 
@@ -19,6 +19,7 @@ All of the data is provided in tab-delimited format in the data directory. We've
 
 ####Licenses
 Code: [MIT License](http://opensource.org/licenses/MIT), Copyright 2014, The Center for Responsive Politics and The Sunlight Foundation
+
 Data: [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 
